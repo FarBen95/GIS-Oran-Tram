@@ -1,0 +1,2588 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Ghaouti",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.648742,
+          35.689372,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "0435345dfd8e86ddf3446d505feb9fa1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Es Senia Centre",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.625151,
+          35.649919,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "1265d1c9944ae95faf7be9dcf3b61730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Tlemcen Houaha",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.651555,
+          35.696625,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "1a121ef1f5ed3fda8dc4bc751f193e58"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Emir Abdelkader",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.644764,
+          35.699875,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "26e4e432ae6040d621b84025fdd30273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Cité USTO",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.588895,
+          35.702014,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "299e459bfb52bb38926149c360373d87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Hai Sabah",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.571204,
+          35.697143,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "2a4f854726f0494381b7fdf9b333a0a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Hammou Mokhtar Les Castors",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.613202,
+          35.697079,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "2b593b86da5db9b687137fbe160f77e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Cité Volontaire ENSET",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.634683,
+          35.665575,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "2d7ac4b0c0de7e43f78fd698c4583083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Gare SNTF",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.638627,
+          35.699702,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "44bf4506d80825260c66b50d2dec64fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Es Senia Université",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.617055,
+          35.642343,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "4876c602a1ea22f33f2e793f3c72409b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Place 1er Novembre",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.6501,
+          35.701252,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "4fef832298084beef55ea63d3171d683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Es Senia Sud",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.620402,
+          35.645045,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "520b9a9f25f317f9de0f6a76a78c4527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Mosquée Ibn Badis",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.604926,
+          35.696854,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "54e22c770ace6673fe6ccf0746763a8a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Université USTO",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.577702,
+          35.704027,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "58e24a1673e2fa3a4e6df5e4fcc49473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Lycée les Palmiers",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.638164,
+          35.671263,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "5f58f6b340158fef09408cbced622b55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "USTO-Bifurcation",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.573088,
+          35.706206,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "71fbead316e6c8320e33470777d586bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Maalem",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.617937,
+          35.69808,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "7b48146cd116c68aa7dbee80e87cabeb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Moulay AEK",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.628241,
+          35.655028,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "7e8086f53e4678ec9f5f44ec8099dacb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Place 1er Novembre",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.649209,
+          35.703624,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "8003e4c8470a5f94bd02212dce2a6a9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Cité Universitaire Hai El Badr",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.643354,
+          35.67972,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "82c6ef593d068b397c07c751d37666a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Hôpital 1er Novembre",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.58365,
+          35.702214,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "844ce8b6fe7d3f91fc83950b7f487378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Carrefour 3 Cliniques",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.594276,
+          35.701976,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "8d9689b1e3df6bdf0bdecc84ab92d8a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Palais de sports",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.647679,
+          35.686875,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "8e39bdcfe044974d856209c454edde95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "IGMO",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.631996,
+          35.661226,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "9c6d54836db78e06f0495b53cbf7130c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "1er Boulevard",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.631136,
+          35.698659,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "9f344b6b32217318c81ef16525419715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Jardin Othmania",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.641052,
+          35.675973,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "a6380fa9461615058f61942beeacdcad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Yassmine",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.569995,
+          35.703407,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "a6efbdddca73353faefe590f5b1e485e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Sûreté de Wilaya",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.645665,
+          35.683481,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "b137c022123a61833bfc6412fba5aad0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Palais de justice",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.601181,
+          35.699951,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "b5be9d57daa530f197bd69d815dbec00"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Place Moulay",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.625728,
+          35.699108,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "e8341186f1863844a44ecb96166011f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Medina Djadida",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.649866,
+          35.69228,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "f827ac56591c4e33f3576ac65978d9d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Gare Routière de Sidi Maarouf",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          -0.568836,
+          35.690785,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "f8cb2bfab78616696758d766f5d5a3af"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "Tamway d'Oran",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -0.568521,
+            35.690697,
+            0
+          ],
+          [
+            -0.568836,
+            35.690785,
+            0
+          ],
+          [
+            -0.569207,
+            35.690894,
+            0
+          ],
+          [
+            -0.569891,
+            35.691096,
+            0
+          ],
+          [
+            -0.569993,
+            35.691127,
+            0
+          ],
+          [
+            -0.570113,
+            35.691229,
+            0
+          ],
+          [
+            -0.570155,
+            35.691318,
+            0
+          ],
+          [
+            -0.570151,
+            35.691466,
+            0
+          ],
+          [
+            -0.569961,
+            35.691896,
+            0
+          ],
+          [
+            -0.569931,
+            35.691966,
+            0
+          ],
+          [
+            -0.569926,
+            35.692043,
+            0
+          ],
+          [
+            -0.569945,
+            35.69211,
+            0
+          ],
+          [
+            -0.56999,
+            35.69219,
+            0
+          ],
+          [
+            -0.570103,
+            35.692291,
+            0
+          ],
+          [
+            -0.570699,
+            35.692527,
+            0
+          ],
+          [
+            -0.571129,
+            35.692695,
+            0
+          ],
+          [
+            -0.573532,
+            35.693627,
+            0
+          ],
+          [
+            -0.574047,
+            35.693863,
+            0
+          ],
+          [
+            -0.574155,
+            35.693963,
+            0
+          ],
+          [
+            -0.574225,
+            35.694063,
+            0
+          ],
+          [
+            -0.574271,
+            35.694159,
+            0
+          ],
+          [
+            -0.574295,
+            35.694284,
+            0
+          ],
+          [
+            -0.57428,
+            35.694432,
+            0
+          ],
+          [
+            -0.574246,
+            35.694507,
+            0
+          ],
+          [
+            -0.574153,
+            35.69467,
+            0
+          ],
+          [
+            -0.574014,
+            35.694808,
+            0
+          ],
+          [
+            -0.573821,
+            35.694985,
+            0
+          ],
+          [
+            -0.573536,
+            35.695236,
+            0
+          ],
+          [
+            -0.573438,
+            35.695317,
+            0
+          ],
+          [
+            -0.572824,
+            35.695818,
+            0
+          ],
+          [
+            -0.571743,
+            35.696702,
+            0
+          ],
+          [
+            -0.571204,
+            35.697143,
+            0
+          ],
+          [
+            -0.56959,
+            35.698466,
+            0
+          ],
+          [
+            -0.568561,
+            35.69931,
+            0
+          ],
+          [
+            -0.568535,
+            35.699361,
+            0
+          ],
+          [
+            -0.568518,
+            35.699429,
+            0
+          ],
+          [
+            -0.568536,
+            35.699604,
+            0
+          ],
+          [
+            -0.568571,
+            35.699711,
+            0
+          ],
+          [
+            -0.568923,
+            35.700213,
+            0
+          ],
+          [
+            -0.569002,
+            35.700377,
+            0
+          ],
+          [
+            -0.569031,
+            35.70049,
+            0
+          ],
+          [
+            -0.56906,
+            35.700633,
+            0
+          ],
+          [
+            -0.569072,
+            35.700862,
+            0
+          ],
+          [
+            -0.569118,
+            35.701719,
+            0
+          ],
+          [
+            -0.569135,
+            35.702017,
+            0
+          ],
+          [
+            -0.569171,
+            35.702154,
+            0
+          ],
+          [
+            -0.569217,
+            35.702257,
+            0
+          ],
+          [
+            -0.569262,
+            35.702347,
+            0
+          ],
+          [
+            -0.569342,
+            35.702501,
+            0
+          ],
+          [
+            -0.569358,
+            35.702524,
+            0
+          ],
+          [
+            -0.569581,
+            35.70284,
+            0
+          ],
+          [
+            -0.569995,
+            35.703407,
+            0
+          ],
+          [
+            -0.570085,
+            35.703531,
+            0
+          ],
+          [
+            -0.57017,
+            35.703652,
+            0
+          ],
+          [
+            -0.57185,
+            35.706032,
+            0
+          ],
+          [
+            -0.571942,
+            35.706152,
+            0
+          ],
+          [
+            -0.572083,
+            35.706279,
+            0
+          ],
+          [
+            -0.572248,
+            35.706349,
+            0
+          ],
+          [
+            -0.572372,
+            35.706383,
+            0
+          ],
+          [
+            -0.572542,
+            35.706402,
+            0
+          ],
+          [
+            -0.572648,
+            35.706399,
+            0
+          ],
+          [
+            -0.572754,
+            35.706364,
+            0
+          ],
+          [
+            -0.573088,
+            35.706206,
+            0
+          ],
+          [
+            -0.575033,
+            35.70529,
+            0
+          ],
+          [
+            -0.577702,
+            35.704027,
+            0
+          ],
+          [
+            -0.579158,
+            35.703336,
+            0
+          ],
+          [
+            -0.580604,
+            35.702649,
+            0
+          ],
+          [
+            -0.580731,
+            35.702587,
+            0
+          ],
+          [
+            -0.581031,
+            35.702485,
+            0
+          ],
+          [
+            -0.581295,
+            35.702384,
+            0
+          ],
+          [
+            -0.581575,
+            35.70232,
+            0
+          ],
+          [
+            -0.581904,
+            35.702268,
+            0
+          ],
+          [
+            -0.582384,
+            35.702231,
+            0
+          ],
+          [
+            -0.583009,
+            35.702222,
+            0
+          ],
+          [
+            -0.58365,
+            35.702214,
+            0
+          ],
+          [
+            -0.5851,
+            35.702216,
+            0
+          ],
+          [
+            -0.585408,
+            35.702201,
+            0
+          ],
+          [
+            -0.585727,
+            35.702136,
+            0
+          ],
+          [
+            -0.586038,
+            35.702055,
+            0
+          ],
+          [
+            -0.586234,
+            35.702043,
+            0
+          ],
+          [
+            -0.587932,
+            35.702025,
+            0
+          ],
+          [
+            -0.588895,
+            35.702014,
+            0
+          ],
+          [
+            -0.592032,
+            35.701991,
+            0
+          ],
+          [
+            -0.594276,
+            35.701976,
+            0
+          ],
+          [
+            -0.594445,
+            35.701971,
+            0
+          ],
+          [
+            -0.594575,
+            35.701955,
+            0
+          ],
+          [
+            -0.594767,
+            35.701924,
+            0
+          ],
+          [
+            -0.594876,
+            35.701891,
+            0
+          ],
+          [
+            -0.594988,
+            35.701862,
+            0
+          ],
+          [
+            -0.59512,
+            35.701846,
+            0
+          ],
+          [
+            -0.596239,
+            35.701843,
+            0
+          ],
+          [
+            -0.596786,
+            35.701834,
+            0
+          ],
+          [
+            -0.59687,
+            35.701844,
+            0
+          ],
+          [
+            -0.596959,
+            35.701853,
+            0
+          ],
+          [
+            -0.597274,
+            35.701928,
+            0
+          ],
+          [
+            -0.597531,
+            35.701976,
+            0
+          ],
+          [
+            -0.597617,
+            35.701976,
+            0
+          ],
+          [
+            -0.597883,
+            35.701963,
+            0
+          ],
+          [
+            -0.598095,
+            35.701952,
+            0
+          ],
+          [
+            -0.598308,
+            35.701945,
+            0
+          ],
+          [
+            -0.598584,
+            35.701918,
+            0
+          ],
+          [
+            -0.598696,
+            35.701873,
+            0
+          ],
+          [
+            -0.599086,
+            35.701571,
+            0
+          ],
+          [
+            -0.601181,
+            35.699951,
+            0
+          ],
+          [
+            -0.601878,
+            35.699412,
+            0
+          ],
+          [
+            -0.602113,
+            35.69923,
+            0
+          ],
+          [
+            -0.602283,
+            35.699093,
+            0
+          ],
+          [
+            -0.602436,
+            35.698969,
+            0
+          ],
+          [
+            -0.602512,
+            35.698901,
+            0
+          ],
+          [
+            -0.602759,
+            35.698683,
+            0
+          ],
+          [
+            -0.602972,
+            35.698447,
+            0
+          ],
+          [
+            -0.603182,
+            35.69821,
+            0
+          ],
+          [
+            -0.603492,
+            35.697802,
+            0
+          ],
+          [
+            -0.603638,
+            35.697443,
+            0
+          ],
+          [
+            -0.603758,
+            35.697162,
+            0
+          ],
+          [
+            -0.603838,
+            35.697079,
+            0
+          ],
+          [
+            -0.604029,
+            35.696915,
+            0
+          ],
+          [
+            -0.604148,
+            35.696863,
+            0
+          ],
+          [
+            -0.604328,
+            35.696824,
+            0
+          ],
+          [
+            -0.604499,
+            35.696815,
+            0
+          ],
+          [
+            -0.604713,
+            35.69682,
+            0
+          ],
+          [
+            -0.604926,
+            35.696854,
+            0
+          ],
+          [
+            -0.605034,
+            35.69687,
+            0
+          ],
+          [
+            -0.605204,
+            35.696904,
+            0
+          ],
+          [
+            -0.605325,
+            35.696913,
+            0
+          ],
+          [
+            -0.606114,
+            35.696909,
+            0
+          ],
+          [
+            -0.607878,
+            35.696863,
+            0
+          ],
+          [
+            -0.609428,
+            35.696826,
+            0
+          ],
+          [
+            -0.609605,
+            35.696822,
+            0
+          ],
+          [
+            -0.609739,
+            35.696821,
+            0
+          ],
+          [
+            -0.610132,
+            35.696817,
+            0
+          ],
+          [
+            -0.6108,
+            35.696834,
+            0
+          ],
+          [
+            -0.611137,
+            35.696839,
+            0
+          ],
+          [
+            -0.611474,
+            35.69685,
+            0
+          ],
+          [
+            -0.612097,
+            35.696921,
+            0
+          ],
+          [
+            -0.612935,
+            35.69703,
+            0
+          ],
+          [
+            -0.613202,
+            35.697079,
+            0
+          ],
+          [
+            -0.613499,
+            35.697129,
+            0
+          ],
+          [
+            -0.613753,
+            35.697181,
+            0
+          ],
+          [
+            -0.614208,
+            35.697288,
+            0
+          ],
+          [
+            -0.614746,
+            35.697403,
+            0
+          ],
+          [
+            -0.616093,
+            35.697688,
+            0
+          ],
+          [
+            -0.617937,
+            35.69808,
+            0
+          ],
+          [
+            -0.61824,
+            35.698143,
+            0
+          ],
+          [
+            -0.618454,
+            35.698194,
+            0
+          ],
+          [
+            -0.618678,
+            35.698241,
+            0
+          ],
+          [
+            -0.620087,
+            35.698548,
+            0
+          ],
+          [
+            -0.620709,
+            35.698683,
+            0
+          ],
+          [
+            -0.621055,
+            35.698726,
+            0
+          ],
+          [
+            -0.622279,
+            35.698826,
+            0
+          ],
+          [
+            -0.624862,
+            35.699039,
+            0
+          ],
+          [
+            -0.625728,
+            35.699108,
+            0
+          ],
+          [
+            -0.62631,
+            35.699154,
+            0
+          ],
+          [
+            -0.626529,
+            35.699173,
+            0
+          ],
+          [
+            -0.626681,
+            35.699182,
+            0
+          ],
+          [
+            -0.626815,
+            35.699176,
+            0
+          ],
+          [
+            -0.627613,
+            35.699086,
+            0
+          ],
+          [
+            -0.627985,
+            35.699039,
+            0
+          ],
+          [
+            -0.629162,
+            35.698891,
+            0
+          ],
+          [
+            -0.630221,
+            35.698764,
+            0
+          ],
+          [
+            -0.631136,
+            35.698659,
+            0
+          ],
+          [
+            -0.631283,
+            35.698643,
+            0
+          ],
+          [
+            -0.631882,
+            35.698575,
+            0
+          ],
+          [
+            -0.63248,
+            35.698503,
+            0
+          ],
+          [
+            -0.632626,
+            35.698484,
+            0
+          ],
+          [
+            -0.632795,
+            35.698467,
+            0
+          ],
+          [
+            -0.633567,
+            35.69839,
+            0
+          ],
+          [
+            -0.633691,
+            35.69839,
+            0
+          ],
+          [
+            -0.633804,
+            35.69841,
+            0
+          ],
+          [
+            -0.634814,
+            35.698676,
+            0
+          ],
+          [
+            -0.634994,
+            35.698723,
+            0
+          ],
+          [
+            -0.635223,
+            35.698779,
+            0
+          ],
+          [
+            -0.635636,
+            35.698879,
+            0
+          ],
+          [
+            -0.635945,
+            35.698967,
+            0
+          ],
+          [
+            -0.636042,
+            35.698996,
+            0
+          ],
+          [
+            -0.636445,
+            35.69912,
+            0
+          ],
+          [
+            -0.636649,
+            35.699233,
+            0
+          ],
+          [
+            -0.637346,
+            35.699551,
+            0
+          ],
+          [
+            -0.637602,
+            35.699618,
+            0
+          ],
+          [
+            -0.6381,
+            35.699684,
+            0
+          ],
+          [
+            -0.638416,
+            35.699694,
+            0
+          ],
+          [
+            -0.638526,
+            35.699698,
+            0
+          ],
+          [
+            -0.638627,
+            35.699702,
+            0
+          ],
+          [
+            -0.638796,
+            35.69971,
+            0
+          ],
+          [
+            -0.638968,
+            35.699718,
+            0
+          ],
+          [
+            -0.639149,
+            35.699724,
+            0
+          ],
+          [
+            -0.639675,
+            35.699741,
+            0
+          ],
+          [
+            -0.640144,
+            35.699756,
+            0
+          ],
+          [
+            -0.640711,
+            35.699774,
+            0
+          ],
+          [
+            -0.641502,
+            35.699801,
+            0
+          ],
+          [
+            -0.641705,
+            35.699808,
+            0
+          ],
+          [
+            -0.641854,
+            35.699822,
+            0
+          ],
+          [
+            -0.642869,
+            35.69984,
+            0
+          ],
+          [
+            -0.643199,
+            35.699846,
+            0
+          ],
+          [
+            -0.643693,
+            35.699828,
+            0
+          ],
+          [
+            -0.644046,
+            35.699827,
+            0
+          ],
+          [
+            -0.64462,
+            35.699825,
+            0
+          ],
+          [
+            -0.644732,
+            35.69986,
+            0
+          ],
+          [
+            -0.644764,
+            35.699875,
+            0
+          ],
+          [
+            -0.644801,
+            35.699892,
+            0
+          ],
+          [
+            -0.644854,
+            35.699936,
+            0
+          ],
+          [
+            -0.644952,
+            35.700032,
+            0
+          ],
+          [
+            -0.645359,
+            35.700433,
+            0
+          ],
+          [
+            -0.645625,
+            35.700695,
+            0
+          ],
+          [
+            -0.645703,
+            35.700772,
+            0
+          ],
+          [
+            -0.645781,
+            35.700846,
+            0
+          ],
+          [
+            -0.646338,
+            35.701376,
+            0
+          ],
+          [
+            -0.64679,
+            35.701802,
+            0
+          ],
+          [
+            -0.646832,
+            35.701845,
+            0
+          ],
+          [
+            -0.647035,
+            35.702058,
+            0
+          ],
+          [
+            -0.647076,
+            35.702095,
+            0
+          ],
+          [
+            -0.647091,
+            35.702109,
+            0
+          ],
+          [
+            -0.647106,
+            35.702123,
+            0
+          ],
+          [
+            -0.647315,
+            35.702324,
+            0
+          ],
+          [
+            -0.647844,
+            35.702835,
+            0
+          ],
+          [
+            -0.648103,
+            35.703095,
+            0
+          ],
+          [
+            -0.648227,
+            35.70322,
+            0
+          ],
+          [
+            -0.648365,
+            35.703358,
+            0
+          ],
+          [
+            -0.648468,
+            35.70346,
+            0
+          ],
+          [
+            -0.64851,
+            35.703489,
+            0
+          ],
+          [
+            -0.64857,
+            35.703516,
+            0
+          ],
+          [
+            -0.648765,
+            35.703547,
+            0
+          ],
+          [
+            -0.648937,
+            35.703581,
+            0
+          ],
+          [
+            -0.649209,
+            35.703624,
+            0
+          ],
+          [
+            -0.649451,
+            35.703661,
+            0
+          ],
+          [
+            -0.649561,
+            35.703659,
+            0
+          ],
+          [
+            -0.649626,
+            35.703649,
+            0
+          ],
+          [
+            -0.649674,
+            35.703626,
+            0
+          ],
+          [
+            -0.649716,
+            35.703583,
+            0
+          ],
+          [
+            -0.649767,
+            35.703424,
+            0
+          ],
+          [
+            -0.649829,
+            35.703228,
+            0
+          ],
+          [
+            -0.649832,
+            35.703166,
+            0
+          ],
+          [
+            -0.649807,
+            35.703094,
+            0
+          ],
+          [
+            -0.649781,
+            35.703032,
+            0
+          ],
+          [
+            -0.649703,
+            35.70295,
+            0
+          ],
+          [
+            -0.649671,
+            35.702889,
+            0
+          ],
+          [
+            -0.649641,
+            35.702834,
+            0
+          ],
+          [
+            -0.649641,
+            35.702778,
+            0
+          ],
+          [
+            -0.649677,
+            35.70266,
+            0
+          ],
+          [
+            -0.649724,
+            35.702499,
+            0
+          ],
+          [
+            -0.649886,
+            35.701952,
+            0
+          ],
+          [
+            -0.650036,
+            35.701442,
+            0
+          ],
+          [
+            -0.6501,
+            35.701252,
+            0
+          ],
+          [
+            -0.650302,
+            35.700657,
+            0
+          ],
+          [
+            -0.650403,
+            35.700368,
+            0
+          ],
+          [
+            -0.650505,
+            35.700078,
+            0
+          ],
+          [
+            -0.650608,
+            35.699782,
+            0
+          ],
+          [
+            -0.650712,
+            35.699471,
+            0
+          ],
+          [
+            -0.650901,
+            35.698931,
+            0
+          ],
+          [
+            -0.651017,
+            35.698589,
+            0
+          ],
+          [
+            -0.651092,
+            35.698378,
+            0
+          ],
+          [
+            -0.651255,
+            35.697923,
+            0
+          ],
+          [
+            -0.651514,
+            35.697154,
+            0
+          ],
+          [
+            -0.65161,
+            35.696845,
+            0
+          ],
+          [
+            -0.651617,
+            35.696766,
+            0
+          ],
+          [
+            -0.651584,
+            35.696697,
+            0
+          ],
+          [
+            -0.651555,
+            35.696625,
+            0
+          ],
+          [
+            -0.651489,
+            35.696456,
+            0
+          ],
+          [
+            -0.65078,
+            35.694667,
+            0
+          ],
+          [
+            -0.650185,
+            35.693107,
+            0
+          ],
+          [
+            -0.649866,
+            35.69228,
+            0
+          ],
+          [
+            -0.649484,
+            35.691287,
+            0
+          ],
+          [
+            -0.649001,
+            35.690031,
+            0
+          ],
+          [
+            -0.648803,
+            35.689518,
+            0
+          ],
+          [
+            -0.648742,
+            35.689372,
+            0
+          ],
+          [
+            -0.648663,
+            35.689188,
+            0
+          ],
+          [
+            -0.648513,
+            35.688792,
+            0
+          ],
+          [
+            -0.648461,
+            35.688655,
+            0
+          ],
+          [
+            -0.648344,
+            35.688356,
+            0
+          ],
+          [
+            -0.648171,
+            35.687924,
+            0
+          ],
+          [
+            -0.648063,
+            35.687662,
+            0
+          ],
+          [
+            -0.647932,
+            35.687386,
+            0
+          ],
+          [
+            -0.647791,
+            35.6871,
+            0
+          ],
+          [
+            -0.647702,
+            35.686921,
+            0
+          ],
+          [
+            -0.647679,
+            35.686875,
+            0
+          ],
+          [
+            -0.64761,
+            35.686739,
+            0
+          ],
+          [
+            -0.647426,
+            35.686377,
+            0
+          ],
+          [
+            -0.647303,
+            35.686177,
+            0
+          ],
+          [
+            -0.647181,
+            35.685975,
+            0
+          ],
+          [
+            -0.64692,
+            35.685535,
+            0
+          ],
+          [
+            -0.646426,
+            35.684723,
+            0
+          ],
+          [
+            -0.645665,
+            35.683481,
+            0
+          ],
+          [
+            -0.645559,
+            35.683308,
+            0
+          ],
+          [
+            -0.644393,
+            35.681409,
+            0
+          ],
+          [
+            -0.644046,
+            35.680844,
+            0
+          ],
+          [
+            -0.64384,
+            35.68051,
+            0
+          ],
+          [
+            -0.643622,
+            35.680156,
+            0
+          ],
+          [
+            -0.643354,
+            35.67972,
+            0
+          ],
+          [
+            -0.643218,
+            35.679499,
+            0
+          ],
+          [
+            -0.642822,
+            35.678853,
+            0
+          ],
+          [
+            -0.642382,
+            35.678137,
+            0
+          ],
+          [
+            -0.641932,
+            35.677404,
+            0
+          ],
+          [
+            -0.641311,
+            35.676392,
+            0
+          ],
+          [
+            -0.641052,
+            35.675973,
+            0
+          ],
+          [
+            -0.640533,
+            35.675135,
+            0
+          ],
+          [
+            -0.6399,
+            35.674102,
+            0
+          ],
+          [
+            -0.639245,
+            35.673026,
+            0
+          ],
+          [
+            -0.638346,
+            35.671561,
+            0
+          ],
+          [
+            -0.638164,
+            35.671263,
+            0
+          ],
+          [
+            -0.637335,
+            35.669909,
+            0
+          ],
+          [
+            -0.636576,
+            35.668665,
+            0
+          ],
+          [
+            -0.635644,
+            35.667136,
+            0
+          ],
+          [
+            -0.635338,
+            35.666638,
+            0
+          ],
+          [
+            -0.634683,
+            35.665575,
+            0
+          ],
+          [
+            -0.634429,
+            35.665165,
+            0
+          ],
+          [
+            -0.634134,
+            35.664693,
+            0
+          ],
+          [
+            -0.633747,
+            35.664079,
+            0
+          ],
+          [
+            -0.633586,
+            35.663824,
+            0
+          ],
+          [
+            -0.632919,
+            35.662734,
+            0
+          ],
+          [
+            -0.632328,
+            35.66177,
+            0
+          ],
+          [
+            -0.63205,
+            35.661316,
+            0
+          ],
+          [
+            -0.631996,
+            35.661226,
+            0
+          ],
+          [
+            -0.63162,
+            35.660612,
+            0
+          ],
+          [
+            -0.631567,
+            35.660461,
+            0
+          ],
+          [
+            -0.631508,
+            35.660315,
+            0
+          ],
+          [
+            -0.631402,
+            35.660121,
+            0
+          ],
+          [
+            -0.630818,
+            35.659173,
+            0
+          ],
+          [
+            -0.630207,
+            35.658182,
+            0
+          ],
+          [
+            -0.629724,
+            35.657403,
+            0
+          ],
+          [
+            -0.628833,
+            35.655977,
+            0
+          ],
+          [
+            -0.628241,
+            35.655028,
+            0
+          ],
+          [
+            -0.627938,
+            35.654543,
+            0
+          ],
+          [
+            -0.627844,
+            35.654345,
+            0
+          ],
+          [
+            -0.627833,
+            35.654263,
+            0
+          ],
+          [
+            -0.627795,
+            35.654193,
+            0
+          ],
+          [
+            -0.627531,
+            35.65379,
+            0
+          ],
+          [
+            -0.627414,
+            35.653609,
+            0
+          ],
+          [
+            -0.627257,
+            35.653365,
+            0
+          ],
+          [
+            -0.627181,
+            35.653244,
+            0
+          ],
+          [
+            -0.627107,
+            35.653123,
+            0
+          ],
+          [
+            -0.626758,
+            35.652549,
+            0
+          ],
+          [
+            -0.625803,
+            35.650982,
+            0
+          ],
+          [
+            -0.625151,
+            35.649919,
+            0
+          ],
+          [
+            -0.625016,
+            35.649699,
+            0
+          ],
+          [
+            -0.624225,
+            35.648409,
+            0
+          ],
+          [
+            -0.624201,
+            35.648369,
+            0
+          ],
+          [
+            -0.62417,
+            35.648315,
+            0
+          ],
+          [
+            -0.624105,
+            35.648203,
+            0
+          ],
+          [
+            -0.623947,
+            35.647969,
+            0
+          ],
+          [
+            -0.623809,
+            35.647827,
+            0
+          ],
+          [
+            -0.623778,
+            35.647795,
+            0
+          ],
+          [
+            -0.623692,
+            35.647714,
+            0
+          ],
+          [
+            -0.623553,
+            35.647596,
+            0
+          ],
+          [
+            -0.62336,
+            35.647434,
+            0
+          ],
+          [
+            -0.622818,
+            35.647002,
+            0
+          ],
+          [
+            -0.621463,
+            35.645903,
+            0
+          ],
+          [
+            -0.620519,
+            35.645139,
+            0
+          ],
+          [
+            -0.620402,
+            35.645045,
+            0
+          ],
+          [
+            -0.619572,
+            35.644376,
+            0
+          ],
+          [
+            -0.618311,
+            35.643358,
+            0
+          ],
+          [
+            -0.617055,
+            35.642343,
+            0
+          ],
+          [
+            -0.615257,
+            35.640873,
+            0
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "d4503f58f47fa6341b5e91cedc8c9b0d"
+    }
+  ],
+  "type": "FeatureCollection"
+}
