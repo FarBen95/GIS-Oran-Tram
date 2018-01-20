@@ -1,15 +1,11 @@
 package com.farouk.sig;
 
-import android.graphics.Color;
 import android.os.AsyncTask;
 import android.support.v4.content.ContextCompat;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
 
-import com.mapbox.mapboxsdk.annotations.Icon;
-import com.mapbox.mapboxsdk.annotations.IconFactory;
-import com.mapbox.mapboxsdk.annotations.MarkerOptions;
 import com.mapbox.mapboxsdk.annotations.PolylineOptions;
 import com.mapbox.mapboxsdk.geometry.LatLng;
 import com.mapbox.services.commons.models.Position;
@@ -33,8 +29,8 @@ import java.util.List;
 public class DrawTrackFromGeoJson extends AsyncTask<Void, Void, List<LatLng>> {
     private static final String TAG = "DrawGeoJson";
     private final WeakReference<MainActivity> activityRef;
-    private Position source, destination;
     double distance = 0;
+    private Position source, destination;
 
     public DrawTrackFromGeoJson(MainActivity activity) {
         this.activityRef = new WeakReference<>(activity);
@@ -46,6 +42,13 @@ public class DrawTrackFromGeoJson extends AsyncTask<Void, Void, List<LatLng>> {
         this.destination = destination;
     }
 
+    private static double truncateDecimal(double x, int numberofDecimals) {
+        if (x > 0) {
+            return new BigDecimal(String.valueOf(x)).setScale(numberofDecimals, BigDecimal.ROUND_FLOOR).doubleValue();
+        } else {
+            return new BigDecimal(String.valueOf(x)).setScale(numberofDecimals, BigDecimal.ROUND_CEILING).doubleValue();
+        }
+    }
 
     @SuppressWarnings("WrongThread")
     @Override
@@ -165,19 +168,10 @@ public class DrawTrackFromGeoJson extends AsyncTask<Void, Void, List<LatLng>> {
             activity.mapboxMap.addMarker(activity.destinationMarker);
 
             activity.distance.setText(String.valueOf(truncateDecimal(distance, 2) +" m"));
-            double roundTime = truncateDecimal(distance/875, 0);
+            double roundTime = truncateDecimal(distance / (1000 / 3), 0);
             activity.time.setText(Double.valueOf(roundTime).intValue() + " min " +
-                    Double.valueOf((distance/875 +  - roundTime)*60).intValue() + " sec");
+                    Double.valueOf((distance / (1000 / 3) - roundTime) * 60).intValue() + " sec");
             activity.distanceTime.setVisibility(View.VISIBLE);
-        }
-    }
-
-    private static double truncateDecimal(double x, int numberofDecimals)
-    {
-        if ( x > 0) {
-            return new BigDecimal(String.valueOf(x)).setScale(numberofDecimals, BigDecimal.ROUND_FLOOR).doubleValue();
-        } else {
-            return new BigDecimal(String.valueOf(x)).setScale(numberofDecimals, BigDecimal.ROUND_CEILING).doubleValue();
         }
     }
 }
